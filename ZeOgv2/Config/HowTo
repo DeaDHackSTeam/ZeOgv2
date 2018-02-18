@@ -1,0 +1,17 @@
+Tuto files: Its simple
+1. The script is gonna to ask you what type of backdoor you need it depends on you, https & http will use a http port default is 80 but TCP is more used so
+i recommend you using TCP for the first time.
+2. Simply put your IP know that a local IP wont allow you to hack SOMEONE OUT OF YOUR NETWORK/WIFI. If you want to hack someone outside of your WiFi use your private
+IP.
+3. Really simple just put the port you want the listener to be listening on by default http & https uses 80 and for TCP is 4444/443/80, you can make a custom one
+simply with your router admin page.
+4. The script is gonna to ask you for an encoder if you don't know what is a encoder its a encryption like AES-128 that will allow you to encrypt the virus
+wich will make it harder to detect the best one if the first one. :)
+5. It will ask you for a name well put whatever you want the virus to be called.
+
+Don't worry about the path its gonna to create it on your desktop!
+It was simple right!!! xD
+I make simple scripts for everyone.
+I hope you guys like it!
+
+ 
