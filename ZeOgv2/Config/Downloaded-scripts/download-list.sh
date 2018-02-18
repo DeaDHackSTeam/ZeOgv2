@@ -164,7 +164,7 @@ then
   cd /root/Desktop  
   git clone https://github.com/UltimateHackers/ReconDog
 fi
-if [ $choice == 12 ]7
+if [ $choice == 12 ]
 then
   cd /root/Desktop
   git clone https://github.com/1N3/Sn1per 
