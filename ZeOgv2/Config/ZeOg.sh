@@ -72,7 +72,7 @@ read -p "What do you wish to procced?:" choice1
 if [ $choice1 == 1 ]
 then
   echo "${lightgreen}[+]Launching shell...."
-  exec root/Desktop/ZeOgv2/Config/'Default Scripts'/List.sh
+  exec /root/Desktop/ZeOgv2/Config/'Default Scripts'/List.sh
 fi
 if [ $choice1 == 2 ]
 then
