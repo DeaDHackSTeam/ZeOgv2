@@ -46,8 +46,8 @@
 
 echo "${lightgreen}Updating ZeOg...."
 echo The file will be saved at /root/Downloads/
-cd /root/Downloads
-git clone https://github.com/DeaDHackSTeam/ZeOg/ZeOgv3
+cd /root/Downloads 
+git clone https://github.com/DeaDHackSTeam/ZeOgv3
 
 
 
